@@ -1,0 +1,81 @@
+body {
+  background-color: #e4e6eb;
+  color: #071c4d;
+}
+
+.navbar-brand img {
+  max-height: 50px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #071c4d;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #071c4d !important;
+}
+
+.btn-login {
+  background-color: #071c4d;
+  color: #fff;
+}
+
+.btn-login:hover {
+  background-color: #1e3771;
+  color: #fff;
+}
+
+header {
+  padding: 180px 0 165px;
+  margin-top: -80px;
+  background-image: url("../images/banner.jpeg");
+  background-size: cover;
+}
+
+header h1, header p {
+  color: #fff;
+}
+
+header h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+header p {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+header .btn-get-started {
+  background-color: #ff9353;
+  color: #fff;
+}
+
+header .btn-get-started:hover {
+  background-color: #ffaa69;
+  color: #fff;
+}
+
+.section-stats {
+  margin-top: -50px;
+}
+
+.section-stats .stats-detail {
+  padding: 15px;
+  background-color: #fff;
+  padding-left: 40px;
+  padding-bottom: 5px;
+}
+
+.section-stats h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.section-stats p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+/*# sourceMappingURL=main.css.map */
